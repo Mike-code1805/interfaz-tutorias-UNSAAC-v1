@@ -4,4 +4,4 @@ This project was created for the interface of the first version for the UNSAAC c
 
 ## Start
 
-Download the file and select index.html or with live server
+Download the file in .rar or clone and select index.html or with live server
